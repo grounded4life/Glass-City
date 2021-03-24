@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:25
+#EXT-X-MEDIA-SEQUENCE:44275
+#EXTINF:9.599,
+media-ut0hg8j6r_44275.ts
+#EXTINF:9.6,
+media-ut0hg8j6r_44276.ts
+#EXTINF:9.599,
+media-ut0hg8j6r_44277.ts
+#EXTINF:12.0,
+media-ut0hg8j6r_44278.ts
+#EXTINF:9.599,
+media-ut0hg8j6r_44279.ts
